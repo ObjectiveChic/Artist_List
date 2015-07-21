@@ -1,0 +1,2 @@
+module SeeartistsHelper
+end
